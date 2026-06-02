@@ -7,7 +7,7 @@ Built with **HTML, CSS, JavaScript, Bootstrap, and Express.js**, leveraging the 
 - 📄 Upload multiple PDF files
 - 🔄 Merge them into a single document
 - ⚡ Fast and lightweight interface
-- 🎨 Styled with Bootstrap for responsive design
+- 🎨 Styled with Bootstrap for responsive design.
 
 ## 🚀 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
