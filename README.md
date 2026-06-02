@@ -1,7 +1,7 @@
 # PDF Merger App
 
 A simple **web application** to merge multiple PDF files into one.  
-Built with **HTML, CSS, JavaScript, Bootstrap, and Express.js**, leveraging the [`pdf-merge`](https://www.npmjs.com/package/pdf-merge) npm package.
+Built with **HTML, CSS, JavaScript, Bootstrap, and Express.js**, leveraging the [`pdf-merge`](https://www.npmjs.com/package/pdf-merge) npm package
 
 ## 📂 Features
 - 📄 Upload multiple PDF files
